@@ -1,2 +1,3 @@
-# transformer-ocr
-ocr seq2seq using cnn + transformer
+# learn and train OCR
+- CRNN : CNN + RNN + CTCloss
+- Transformer OCR : CNN + Transformer
